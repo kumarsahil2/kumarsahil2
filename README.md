@@ -8,7 +8,7 @@
 
 ## 🔧 Tech Stack & Skills
 
-- **Languages:** C++, Java, SQL, HTML, CSS, JavaScript
+- **Languages:** C++, Java, SQL, HTML, CSS, JavaScript, Python
 - **Frameworks & Libraries:** React.js, Node.js
 - **Databases:** MongoDB, Firebase
 - **Tools:** GitHub, Microsoft Office Suite
