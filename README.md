@@ -1,65 +1,93 @@
-# 👋 Hi, I'm Kumar Sahil
+👋 Hi, I'm Kumar Sahil
+🎓 MCA Student at Manipal Institute of Technology (MIT), Manipal
+💻 Passionate Full-Stack Developer | AI & ML Enthusiast | Open Source Contributor
+📍 Bengaluru, India | 📫 k.kumarsahil21@gmail.com | 📞 +91-7004884540
+🔗 GitHub | LinkedIn | Portfolio
 
-🎓 Master of Computer Applications (MCA) student at Manipal Institute of Technology (MIT), Manipal, with a strong foundation in software development, AI, and full-stack web and mobile application projects.
+🎯 Objective
+Detail-oriented and innovative developer with a strong foundation in full-stack development, AI/ML, and real-world project execution. Seeking opportunities to apply practical skills and a growth mindset in dynamic and fast-paced environments.
 
-📍 Currently based in Bengaluru | 📫 [k.kumarsahil21@gmail.com](mailto:k.kumarsahil21@gmail.com)
+🎓 Education
+Manipal Institute of Technology, Manipal
+Master of Computer Applications (MCA)
+📅 Aug 2023 – Present | 📈 GPA: 6.53
 
----
+Gaya College, Gaya
+B.Sc. Information Technology (Hons.)
+📅 Aug 2018 – Aug 2021 | 📈 Percentage: 75.86%
 
-## 🔧 Tech Stack & Skills
+💼 Experience
+Software Developer Intern — Zieers System Pvt. Ltd.
+📍 Bengaluru | 🗓️ Feb 2025 – Present
 
-- **Languages:** C++, Java, SQL, HTML, CSS, JavaScript, Python
-- **Frameworks & Libraries:** React.js, Node.js
-- **Databases:** MongoDB, Firebase
-- **Tools:** GitHub, Microsoft Office Suite
-- **Concepts:** OOPs, Data Structures & Algorithms (DSA)
-- **Certifications:**
-  - [SQL - HackerRank](https://www.hackerrank.com/certificates/147a2afbc188)
-  - [AWS Solution Architect (Forage)](https://drive.google.com/file/d/1yFVUT5uSLNtYsin8PCYOP4GfWzv6PbvX/view?usp=sharing)
-  - [Machine Learning with Apache Spark - Coursera](https://coursera.org/share/81be78cd9e025b542150ed1753cf0858)
+Built and deployed a full-stack NIFTY 50 stock prediction platform using React and Flask.
 
----
+Integrated 4+ APIs (Angel One, NewsAPI, Hugging Face, Gemini) and implemented secure authentication.
 
-## 💼 Experience
+Improved prediction accuracy by 15% and data rendering speed by 40% using RESTful APIs.
 
-**Software Developer Intern** — Zieers System Pvt. Ltd. *(Jan 2025 – Present)*  
-- Conducted R&D on AI models for NSE stock market predictions, achieving a 15% increase in accuracy.
-- Analyzed 5+ years of financial data, reducing model error by 10%.
-- Produced detailed weekly reports with 100% data accuracy.
+Managed 5,000+ records with MongoDB, improving data engagement by 30%.
 
----
+🚀 Projects
+📦 Inventory Management System
+🔗 Live Demo
+Tech Stack: React, Node.js, MongoDB
 
-## 🚀 Projects
+Developed a full-stack inventory platform to manage 1000+ items.
 
-### 🏥 Hospital OPD Management Website  
-**Tech Stack:** React, Node.js, MongoDB  
-- Developed a responsive frontend with modular React components.  
-- Enabled JWT-based authentication, department-wise appointment bookings.  
+Included CRUD operations, CSV import/export, JWT auth, and real-time analytics.
 
-### 🛒 M-Kart E-Commerce Android App (Team Project)  
-**Tech Stack:** Java, Firebase  
-- Designed product detail pages with real-time cart updates.  
-- Integrated Firebase for database and authentication.
-- Boosted transaction efficiency by ~20%.
+Reduced manual inventory errors by 40% with role-based access.
 
----
+📬 Email Classification System
+🔗 Live Demo
+Tech Stack: FastAPI, BERT, Gradio, Hugging Face
 
-## 📚 Education
+Built a BERT-based email classifier with 90%+ accuracy, handling 500+ emails/week.
 
-- 🎓 **MCA** - Manipal Institute of Technology, Manipal (2023 – Ongoing)  
-  *GPA: 6.53*
+Implemented PII masking using Regex for GDPR compliance.
 
-- 🎓 **B.Sc. IT (Hons.)** - Gaya College, Gaya (2018 – 2021)  
-  *Percentage: 75.86%*
+Hosted on Hugging Face with JSON output for API integration.
 
----
+🏥 Hospital OPD Management Website
+Tech Stack: React, Node.js, MongoDB
 
-## 💬 Let's Connect
+Designed responsive UI and implemented JWT-based login.
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/kumar-sahil-5630792b5)  
-- 💻 [GitHub](https://github.com/kumarsahil2)
+Enabled department-wise appointment booking and secure data flow.
 
----
+🛒 M-Kart E-Commerce Android App (Team Project)
+Tech Stack: Java, Firebase
 
-🔍 *“I am a passionate developer with a knack for problem-solving, looking to create impactful tech solutions while growing with dynamic teams.”*
+Developed UI for product listing and cart updates with Firebase authentication.
 
+Boosted app performance and reduced transaction latency by 20%.
+
+🔧 Tech Stack & Skills
+Languages: C++, Java, Python, SQL, JavaScript
+
+Frontend: HTML, CSS, React.js
+
+Backend: Node.js, Express.js, FastAPI
+
+Databases: MongoDB, PostgreSQL, Firebase
+
+Tools: Git, GitHub, VS Code, Jupyter Notebook, Vercel, Render
+
+Concepts: OOP, DSA, RESTful API, ML basics, JWT Authentication
+
+📜 Certifications
+✅ SQL – HackerRank
+
+✅ REST API – HackerRank
+
+✅ AWS Solution Architect (Forage)
+
+✅ Machine Learning with Apache Spark – Coursera
+
+🧠 Traits & Hobbies
+🤝 Team Player | 📈 Growth Mindset | 🔍 Attention to Detail
+
+🎮 Gaming | 📸 Tech Content Creation | 📖 Reading on AI & Markets
+
+🧭 "I am a passionate developer with a knack for problem-solving, eager to build impactful tech products and grow alongside dynamic teams."
